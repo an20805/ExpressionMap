@@ -3,3 +3,7 @@
 /scooby_inference/data/embedding_no_val_genes.pq
 /scooby_assets/training_data/onek1k_training_data/embedding_no_val_genes.pq
 *.fai
+/docs
+/scooby_inference/ag2_out/
+/.codex
+/.codex-attachments
